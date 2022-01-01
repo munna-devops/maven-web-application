@@ -33,7 +33,7 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 <div style="text-align: center;">
 	<span>
 		<img src="images/mithunlogo.jpg" alt="" width="100">
-		<img src="images/2022-happy-new-year" alt="" width="100">
+		<img src="images/happy-new-year.jpg" alt="" width="100">
 		
 	</span>
 	<span style="font-weight: bold;">
